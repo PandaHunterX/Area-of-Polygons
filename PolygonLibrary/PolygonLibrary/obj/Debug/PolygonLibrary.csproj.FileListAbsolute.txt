@@ -1,0 +1,6 @@
+C:\Users\CCS\Documents\Dungganon\CSPE2100_FinalP1_Dungganon\PolygonLibrary\PolygonLibrary\bin\Debug\PolygonLibrary.dll
+C:\Users\CCS\Documents\Dungganon\CSPE2100_FinalP1_Dungganon\PolygonLibrary\PolygonLibrary\bin\Debug\PolygonLibrary.pdb
+C:\Users\CCS\Documents\Dungganon\CSPE2100_FinalP1_Dungganon\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.csproj.AssemblyReference.cache
+C:\Users\CCS\Documents\Dungganon\CSPE2100_FinalP1_Dungganon\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CCS\Documents\Dungganon\CSPE2100_FinalP1_Dungganon\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.dll
+C:\Users\CCS\Documents\Dungganon\CSPE2100_FinalP1_Dungganon\PolygonLibrary\PolygonLibrary\obj\Debug\PolygonLibrary.pdb

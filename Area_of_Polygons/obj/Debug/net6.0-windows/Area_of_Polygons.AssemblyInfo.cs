@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Area_of_Polygons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cc971d4cb8481abbde2bf206e7d0b6ee86b0f1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7259ea837558a0491358a02cf2d8bba631bf8e62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Area_of_Polygons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Area_of_Polygons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

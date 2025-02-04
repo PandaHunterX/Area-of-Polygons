@@ -43,9 +43,9 @@
             txt_TriangleBase = new TextBox();
             label2 = new Label();
             Rectangle = new TabPage();
+            pictureBox11 = new PictureBox();
             pictureBox24 = new PictureBox();
             pictureBox12 = new PictureBox();
-            pictureBox11 = new PictureBox();
             pictureBox3 = new PictureBox();
             label27 = new Label();
             btn_RectangleArea = new Button();
@@ -140,9 +140,9 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox10).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             Rectangle.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox24).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox12).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox22).BeginInit();
@@ -330,9 +330,9 @@
             // Rectangle
             // 
             Rectangle.BackColor = Color.PeachPuff;
+            Rectangle.Controls.Add(pictureBox11);
             Rectangle.Controls.Add(pictureBox24);
             Rectangle.Controls.Add(pictureBox12);
-            Rectangle.Controls.Add(pictureBox11);
             Rectangle.Controls.Add(pictureBox3);
             Rectangle.Controls.Add(label27);
             Rectangle.Controls.Add(btn_RectangleArea);
@@ -349,6 +349,16 @@
             Rectangle.Size = new Size(943, 502);
             Rectangle.TabIndex = 1;
             Rectangle.Text = "Rectangle";
+            // 
+            // pictureBox11
+            // 
+            pictureBox11.Image = Properties.Resources.rectangle11;
+            pictureBox11.Location = new Point(15, 48);
+            pictureBox11.Name = "pictureBox11";
+            pictureBox11.Size = new Size(267, 289);
+            pictureBox11.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox11.TabIndex = 14;
+            pictureBox11.TabStop = false;
             // 
             // pictureBox24
             // 
@@ -369,16 +379,6 @@
             pictureBox12.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox12.TabIndex = 15;
             pictureBox12.TabStop = false;
-            // 
-            // pictureBox11
-            // 
-            pictureBox11.Image = Properties.Resources.rectangle11;
-            pictureBox11.Location = new Point(15, 48);
-            pictureBox11.Name = "pictureBox11";
-            pictureBox11.Size = new Size(267, 289);
-            pictureBox11.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox11.TabIndex = 14;
-            pictureBox11.TabStop = false;
             // 
             // pictureBox3
             // 
@@ -936,7 +936,7 @@
             // 
             // txt_TrapezoidHeight
             // 
-            txt_TrapezoidHeight.Location = new Point(772, 211);
+            txt_TrapezoidHeight.Location = new Point(767, 175);
             txt_TrapezoidHeight.Margin = new Padding(3, 4, 3, 4);
             txt_TrapezoidHeight.Name = "txt_TrapezoidHeight";
             txt_TrapezoidHeight.Size = new Size(114, 34);
@@ -946,7 +946,7 @@
             // 
             label19.AutoSize = true;
             label19.Font = new Font("Segoe UI Symbol", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label19.Location = new Point(683, 211);
+            label19.Location = new Point(683, 178);
             label19.Name = "label19";
             label19.Size = new Size(82, 28);
             label19.TabIndex = 26;
@@ -957,7 +957,7 @@
             btn_TrapezoidArea.BackColor = Color.MediumPurple;
             btn_TrapezoidArea.FlatStyle = FlatStyle.Flat;
             btn_TrapezoidArea.Font = new Font("Gill Sans MT Condensed", 24F, FontStyle.Regular, GraphicsUnit.Point);
-            btn_TrapezoidArea.Location = new Point(734, 264);
+            btn_TrapezoidArea.Location = new Point(718, 235);
             btn_TrapezoidArea.Margin = new Padding(3, 4, 3, 4);
             btn_TrapezoidArea.Name = "btn_TrapezoidArea";
             btn_TrapezoidArea.Size = new Size(137, 58);
@@ -969,7 +969,7 @@
             // txt_TrapezoidArea
             // 
             txt_TrapezoidArea.Enabled = false;
-            txt_TrapezoidArea.Location = new Point(823, 342);
+            txt_TrapezoidArea.Location = new Point(823, 330);
             txt_TrapezoidArea.Margin = new Padding(3, 4, 3, 4);
             txt_TrapezoidArea.Name = "txt_TrapezoidArea";
             txt_TrapezoidArea.Size = new Size(114, 34);
@@ -977,7 +977,7 @@
             // 
             // txt_TrapezoidLongBase
             // 
-            txt_TrapezoidLongBase.Location = new Point(767, 149);
+            txt_TrapezoidLongBase.Location = new Point(767, 133);
             txt_TrapezoidLongBase.Margin = new Padding(3, 4, 3, 4);
             txt_TrapezoidLongBase.Name = "txt_TrapezoidLongBase";
             txt_TrapezoidLongBase.Size = new Size(114, 34);
@@ -987,7 +987,7 @@
             // 
             label16.AutoSize = true;
             label16.Font = new Font("Segoe UI Symbol", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label16.Location = new Point(567, 342);
+            label16.Location = new Point(567, 330);
             label16.Name = "label16";
             label16.Size = new Size(250, 28);
             label16.TabIndex = 21;
@@ -997,7 +997,7 @@
             // 
             label17.AutoSize = true;
             label17.Font = new Font("Segoe UI Symbol", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label17.Location = new Point(651, 151);
+            label17.Location = new Point(651, 135);
             label17.Name = "label17";
             label17.Size = new Size(114, 28);
             label17.TabIndex = 22;
@@ -1015,7 +1015,7 @@
             // 
             label18.AutoSize = true;
             label18.Font = new Font("Segoe UI Symbol", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label18.Location = new Point(651, 91);
+            label18.Location = new Point(646, 94);
             label18.Name = "label18";
             label18.Size = new Size(119, 28);
             label18.TabIndex = 19;
@@ -1339,6 +1339,7 @@
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "MainHome";
             Text = "Area of Polygons";
             tabControl1.ResumeLayout(false);
@@ -1349,9 +1350,9 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             Rectangle.ResumeLayout(false);
             Rectangle.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox24).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox12).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox11).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             tabPage3.ResumeLayout(false);
             tabPage3.PerformLayout();

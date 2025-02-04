@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\pentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\pentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\kite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\kite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|c:\\users\\pc\\documents\\github\\area-of-polygons\\polygonlibrary\\polygonlibrary\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\polygonlibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F10D6-62EF-4D43-8F79-C37A2B84682E}|PolygonLibrary\\PolygonLibrary.csproj|solutionrelative:polygonlibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Polygon.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Polygon.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Polygon.cs",
+              "RelativeToolTip": "PolygonLibrary\\Polygon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:58.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parallelogram.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Parallelogram.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Parallelogram.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Parallelogram.cs",
+              "RelativeToolTip": "PolygonLibrary\\Parallelogram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rhombus.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Rhombus.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Rhombus.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Rhombus.cs",
+              "RelativeToolTip": "PolygonLibrary\\Rhombus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:58.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kite.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Kite.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Kite.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Kite.cs",
+              "RelativeToolTip": "PolygonLibrary\\Kite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:59.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pentagon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Pentagon.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Pentagon.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Pentagon.cs",
+              "RelativeToolTip": "PolygonLibrary\\Pentagon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:59.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Trapezoid.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Trapezoid.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Trapezoid.cs",
+              "RelativeToolTip": "PolygonLibrary\\Trapezoid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:59.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Square.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Square.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Square.cs",
+              "RelativeToolTip": "PolygonLibrary\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:59.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Triangle.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Triangle.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Triangle.cs",
+              "RelativeToolTip": "PolygonLibrary\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Rectangle.cs",
+              "RelativeDocumentMoniker": "PolygonLibrary\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Area-of-Polygons\\PolygonLibrary\\PolygonLibrary\\Rectangle.cs",
+              "RelativeToolTip": "PolygonLibrary\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:36:59.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
